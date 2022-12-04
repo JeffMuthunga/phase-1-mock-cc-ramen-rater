@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Lo-Mein",
+      "restaurant": "Chin xu",
+      "image": "https://www.errenskitchen.com/wp-content/uploads/2018/10/Perfect-Chinese-Noodles-1-of-1-10-650x975.jpg",
+      "rating": "8",
+      "comment": "DELICIOUS!!",
+      "id": 6
     }
   ]
 }
